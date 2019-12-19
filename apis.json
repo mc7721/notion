@@ -1,0 +1,61 @@
+{
+    "name": "Notion",
+    "description": "Notion provides wireless home monitoring easily & effectively, regardless of location. Whether you rent or own, Notion is the only monitoring system you'll need.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11321-notion.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "internet of things"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/notion\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Notion",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11321-notion.jpg",
+            "humanURL": "http:\/\/notion.is\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/notion-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/notion-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/notion.is\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/notion.is\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/notion-2"
+        },
+        {
+            "type": "Email",
+            "url": "support@getnotion.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/notion"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/notion.is\/"
+        }
+    ]
+}
